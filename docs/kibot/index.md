@@ -14,4 +14,4 @@ The following files were generated from the latest PCB build:
 - [can-nano-shield-fieldbus-bom.html](./can-nano-shield-fieldbus-bom.html)
 - [can-nano-shield-fieldbus-ibom.html](./can-nano-shield-fieldbus-ibom.html)
 
-_Last updated automatically on 2025-09-14 at 18:46:26 UTC by KiBot via GitHub Actions._
+_Last updated automatically on 2025-09-14 at 22:01:04 UTC by KiBot via GitHub Actions._
