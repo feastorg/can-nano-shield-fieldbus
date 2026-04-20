@@ -1,6 +1,6 @@
 title: CAN Nano Shield Fieldbus
 description: >
-  A FEASTorg project page for the can-nano-shield fieldbus variant.
+  A feastorg project page for the can-nano-shield fieldbus variant.
 baseurl: "/can-nano-shield-fieldbus"
 url: "https://feastorg.github.io"
 
@@ -9,7 +9,7 @@ color_scheme: feast # apply feast scheme; custom theme assets pulled from main s
 
 # Aux links for the upper right navigation
 aux_links:
-  "← Return to FEASTorg":
+  "← Return to feastorg":
     - "//feastorg.github.io"
 
 # Makes Aux links open in a new tab. Default is false
