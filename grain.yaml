@@ -1,0 +1,42 @@
+grain_schema_version: "1.0"
+
+# ── Identity ──────────────────────────────────────────────────────────────────
+id: "can-nano-shield-fieldbus"
+name: "CAN Nano Shield (Fieldbus)"
+status: "prototype"
+category: "shield"
+summary: "Arduino Nano-form-factor CAN bus shield with on-board PoL regulation, designed for industrial fieldbus applications."
+
+# ── Versioning ────────────────────────────────────────────────────────────────
+version:
+  hardware: null
+
+# ── Licensing ─────────────────────────────────────────────────────────────────
+license:
+  hardware: "GPL-3.0-only"
+  firmware: null
+  documentation: null
+
+# ── Repository ────────────────────────────────────────────────────────────────
+repository:
+  url: "https://github.com/feastorg/can-nano-shield-fieldbus"
+
+# ── Compatibility ─────────────────────────────────────────────────────────────
+compatibility:
+  - "Arduino Nano"
+  - "Arduino Nano Every"
+
+related_slices: null
+
+# ── Hardware ──────────────────────────────────────────────────────────────────
+hardware:
+  form_factor: "arduino-nano-shield"
+  pcb_layers: 2
+
+# ── Firmware ──────────────────────────────────────────────────────────────────
+firmware: null
+
+# ── Metadata ──────────────────────────────────────────────────────────────────
+metadata:
+  tags: ["can", "mcp2515", "tja1051", "fieldbus", "shield", "nano", "pol"]
+  updated: "2026-06-12"
